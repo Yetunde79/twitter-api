@@ -35,13 +35,13 @@
 
         use Abraham\TwitterOAuth\TwitterOAuth;
 
-        $consumerkey = "j6q90hEKT5zRovIeCrENo1tcS";
+        $consumerkey = "*****************************";
 
-        $consumersecret = "ql2vTovwwi0evskSWg7PKFqfGyrIC5wMA3LRBSPImRTwGCg6o0";
+        $consumersecret = "**********************************";
 
-        $access_token = "946419829015228416-bEwlQgwOtG58JFDvfG0yNI0GwdRghqF";
+        $access_token = "******************************";
 
-        $access_token_secret = "TSmgHLmDu1JZwk8szspl3GudpXTN1zyHldEO53P5Td7Cm";
+        $access_token_secret = "*******************************";
 
         $connection = new TwitterOAuth($consumerkey, $consumersecret, $access_token, $access_token_secret);
         
